@@ -1,0 +1,27 @@
+
+The book opens with the story of Bach's Musical Offering. Bach made an impromptu visit to King Frederick the Great
+of Prussia, and was requested to improvise upon a theme presented by the King. His improvisations formed the basis
+of that great work. The Musical Offering and its story form a theme upon which I "improvise"
+
+throughout the book, thus making a sort of "Metamusical Offering". Self-reference and the interplay between
+different levels in Bach are discussed: this leads to a discussion of parallel ideas in Escher's drawings and
+then Gödel’s Theorem. A brief presentation of the history of logic and paradoxes is given as background for Gödel’s
+Theorem. This leads to mechanical reasoning and computers, and the debate about whether Artificial Intelligence is
+possible. I close with an explanation of the origins of the book-particularly the why and wherefore of the
+Dialogues.
+
+Three-Part Invention.
+Bach wrote fifteen three-part inventions. In this three-part Dialogue, the Tortoise and Achilles-the main fictional
+protagonists in the Dialogues-are "invented" by Zeno (as in fact they were, to illustrate Zeno's paradoxes
+of motion). Very short, it simply gives the flavor of the Dialogues to come.
+
+A simple formal system (the MIL'-system) is presented, and the reader is urged to work out a puzzle to gain
+familiarity with formal systems in general. A number of fundamental notions are introduced: string, theorem,
+axiom, rule of inference, derivation, formal system, decision procedure, working inside/outside the system.
+
+Two-Part Invention.
+Bach also wrote fifteen two-part inventions. This two-part Dialogue was written not by me,
+but by Lewis Carroll in 1895. Carroll borrowed Achilles and the Tortoise from Zeno, and I in turn
+borrowed them from Carroll. The topic is the relation between reasoning, reasoning about reasoning, reasoning
+about reasoning about reasoning, and so on.
+
